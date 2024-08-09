@@ -1,0 +1,1 @@
+words = ["footbal", "monday", "python", "cat", "dog"]

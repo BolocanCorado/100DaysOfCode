@@ -57,7 +57,7 @@
     "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Corado/PycharmProjects/100Days of Code/.venv/Scripts/Day-5",
+    "last_opened_file_path": "C:/Users/Corado/PycharmProjects/100Days of Code",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723129958253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python 100days project&#10;Day-8">
+      <option name="closed" value="true" />
+      <created>1723187786610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723187786610</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

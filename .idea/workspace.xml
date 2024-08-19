@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7566575d-c0c9-4187-86c2-8d6a2b8e7fb9" name="Changes" comment="Python 100days project&#10;Day-8">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7566575d-c0c9-4187-86c2-8d6a2b8e7fb9" name="Changes" comment="Python 100days project&#10;Day-9-12&#10;If a day is missing, that means no project was needed. Only learning">
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/Day-14/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/Day-14/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +55,7 @@
     "Python.BlackJack Project.executor": "Run",
     "Python.CalculatorProject.executor": "Run",
     "Python.GuessingNumberGame.executor": "Run",
+    "Python.functions.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -94,9 +96,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723462187511</updated>
-      <workItem from="1723462188658" duration="7554000" />
+      <workItem from="1723462188658" duration="19773000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python 100days project&#10;Day-9-12&#10;If a day is missing, that means no project was needed. Only learning">
+      <option name="closed" value="true" />
+      <created>1723542746059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723542746059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,9 +115,21 @@
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python 100days project&#10;Day-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python 100days project&#10;Day-8" />
+    <MESSAGE value="Python 100days project&#10;Day-9-12&#10;If a day is missing, that means no project was needed. Only learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python 100days project&#10;Day-9-12&#10;If a day is missing, that means no project was needed. Only learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -138,7 +160,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100Days_of_Code$CalculatorProject.coverage" NAME="CalculatorProject Coverage Results" MODIFIED="1723195016892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Day-9" />
     <SUITE FILE_PATH="coverage/100Days_of_Code$GuessingNumberGame.coverage" NAME="GuessingNumberGame Coverage Results" MODIFIED="1723464225163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Day-12" />
-    <SUITE FILE_PATH="coverage/100Days_of_Code$main.coverage" NAME="main Coverage Results" MODIFIED="1723542189988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Day-14" />
+    <SUITE FILE_PATH="coverage/100Days_of_Code$main.coverage" NAME="main Coverage Results" MODIFIED="1723558843283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Day-15" />
+    <SUITE FILE_PATH="coverage/100Days_of_Code$functions.coverage" NAME="functions Coverage Results" MODIFIED="1723549074036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Day-15" />
     <SUITE FILE_PATH="coverage/100Days_of_Code$BlackJack_Project.coverage" NAME="BlackJack Project Coverage Results" MODIFIED="1723200155363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Day-11" />
   </component>
 </project>
